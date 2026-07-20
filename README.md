@@ -1,10 +1,12 @@
-# 1000 Minecraft Datapack / Gameplay Ideas
+# 1500 Minecraft Datapack / Gameplay Ideas
 
 Focus: **game mechanics** (datapack + resource pack feasible). SCP/facility-themed mechanics
-are included as their own sections. Grouped into 50 categories × 20.
+are included as their own sections. Grouped into 75 categories × 20.
 
 Ideas 1–500: general gameplay mechanics. Ideas 501–1000: **SCP/facility server pack** —
 containment, security, breach events, roleplay and everything an SCP server needs.
+Ideas 1001–1500: **deeper systems & live-ops** — chemistry, robotics, genetics, custom
+dimensions, weather, mechs, hacking, raids, seasonal events and emergent storytelling.
 
 ---
 
@@ -1117,4 +1119,556 @@ and keycards.*
 998. The Archivist: NPC who retells (logged) server history on request
 999. Community handbook auto-built from all written documents
 1000. The thousand-and-first idea: a suggestion terminal where players add to THIS list
+
+---
+
+## 51. Chemistry, Alchemy & Reagents (1001–1020)
+1001. Reagent shelves: combine two vials to synthesize a compound
+1002. pH meter that tints water by acidity
+1003. Distillation multiblock for purified extracts
+1004. Unstable explosive mixing with a timing minigame
+1005. Acid vials that eat through specific block types
+1006. Antidote brewing against anomalous toxins
+1007. Chromatography strips to identify unknown samples
+1008. Lab fires from mishandled reagents (need an extinguisher)
+1009. Fume hood block that safely vents toxic gas
+1010. Reagent purity grades affect potion strength
+1011. Catalyst items that speed up brewing stands
+1012. Cryogenic coolant to freeze samples or entities
+1013. Titration minigame for precise-dosing rewards
+1014. Volatile gas clouds that spread and ignite
+1015. Hazmat suit that degrades with chemical exposure
+1016. Recipe book that unlocks as you discover combos
+1017. Spill-cleanup kits and lingering contamination zones
+1018. Radioactive isotopes with glowing decay timers
+1019. Synthesize fuel, medicine and fertilizer from base elements
+1020. Chemical-weapon use trips facility alarms
+
+## 52. Robotics, Drones & Automatons (1021–1040)
+1021. Buildable scout drone that streams a mini-map
+1022. Turret automaton guarding an assigned zone
+1023. Delivery bots hauling items between chests
+1024. Repair droid that mends nearby machines
+1025. Programmable robot with a simple script UI
+1026. Mining rover that tunnels a set path
+1027. Drone batteries + charging pads (they run out)
+1028. Hacked enemy drones turn on their owner
+1029. Companion android with follow/guard/patrol modes
+1030. Drone camera feed on a handheld monitor
+1031. Swarm drones that assemble into shapes
+1032. Bomb-disposal robot for defusing traps remotely
+1033. Assembly line: craft parts, snap into a bot
+1034. EMP grenade disabling all robots in radius
+1035. Robot-uprising event: automatons go rogue
+1036. Sentry mode alerting on intruder detection
+1037. Cargo mech-loader for heavy blocks
+1038. Firefighting drone that douses flames
+1039. Recon blimp for aerial oversight
+1040. Robot voice lines via note-block speech
+
+## 53. Genetics, Mutation & Cloning (1041–1060)
+1041. DNA sampling kit from mobs and players
+1042. Splice traits (e.g. night vision from a bat sample)
+1043. Clone vat that regrows a fallen ally (cost + time)
+1044. Mutation serum with a random buff/debuff roll
+1045. Gene bank storing collected trait samples
+1046. Hybrid mobs bred from two species
+1047. Radiation-induced mutations near hot zones
+1048. Superhuman injections (temporary, addictive)
+1049. Genetic disease that spreads and needs a cure
+1050. Cellular regeneration for slow passive healing
+1051. Chimera boss assembled from multiple SCP traits
+1052. Anti-aging vs rapid-aging serums
+1053. Clone army with stats degrading each generation
+1054. CRISPR minigame: match base pairs to succeed
+1055. Trait market for selling rare genetic samples
+1056. Failed experiments spawn as hostile abominations
+1057. Player phenotype cosmetics drawn from their genome
+1058. Symbiote that grants power but slowly takes over
+1059. Bio-scanner revealing a target's spliced traits
+1060. Extinction-revival: hatch mobs from ancient DNA
+
+## 54. Custom Dimensions & Portals (1061–1080)
+1061. Pocket dimensions behind keyed doors
+1062. Mirror dimension that inverts the facility layout
+1063. Portal gun linking two placed frames
+1064. Backrooms-style endless liminal maze
+1065. Dream dimension entered by sleeping in a special bed
+1066. Micro-dimension tucked inside a single block
+1067. Dimension where gravity and rules differ
+1068. Rift events tearing temporary portals open
+1069. Per-player instanced rooms
+1070. Void dimension with floating-island puzzles
+1071. Time-locked dimension where day never changes
+1072. Dimension anchors that stabilize a collapsing world
+1073. Portal cooldown + fuel to travel
+1074. Corrupted dimension that spreads back through portals
+1075. Layered dimensions: descend deeper, worse anomalies
+1076. Waypoint hub connecting all dimensions
+1077. Dimension that mirrors your inventory as enemies
+1078. One-way portals (enter, then find the exit)
+1079. Dimension weather bleeding into the overworld
+1080. Sealing ritual to permanently close a rift
+
+## 55. Weather, Climate & Natural Disasters (1081–1100)
+1081. Dynamic storms with lightning-strike hazards
+1082. Tornadoes that fling loose entities and items
+1083. Earthquakes cracking floors and dropping blocks
+1084. Floods raising water levels over time
+1085. Blizzards with whiteout vision and freezing
+1086. Heatwaves draining hunger and water faster
+1087. Sandstorms cutting sight in deserts
+1088. Acid rain damaging exposed players and crops
+1089. Meteor showers dropping ore and leaving craters
+1090. Fog banks rolling in dynamically
+1091. Volcanic eruptions with ash and lava bombs
+1092. Seasons with progressively harsher winters
+1093. Weather forecast board in the facility
+1094. Storm shelters as a survival mechanic
+1095. Wind affecting projectiles and gliding
+1096. Droughts drying up water sources
+1097. Aurora nights granting buffs
+1098. Weather-controlling anomaly (SCP that brings storms)
+1099. Barometer item predicting incoming weather
+1100. Climate-control room stabilizing facility weather
+
+## 56. Time & Temporal Anomalies (1101–1120)
+1101. Rewind item reverting your position 5 seconds
+1102. Time-stop grenade freezing nearby entities
+1103. Slow-motion field around a placed device
+1104. Time-loop room replaying the last minute
+1105. Aging zone where crops and players age fast
+1106. Chrono-lock a chest until a real-world date
+1107. Ghost replay of your last run to race yourself
+1108. Temporal clone repeating your recorded actions
+1109. Fast-forward growth device for farms
+1110. Stasis pod freezing a player or mob
+1111. Paradox event if two of your clones meet
+1112. Time debt: speed now, penalty later
+1113. Deja-vu anomaly rewinding small events
+1114. Clock-tower boss that controls local time
+1115. Bullet-time triggered on low health
+1116. Save/load checkpoint shrine (roguelike runs)
+1117. Accelerated decay on abandoned structures
+1118. Time-crystal fuel for temporal devices
+1119. Aged loot: chests improve the longer untouched
+1120. Server-wide "lost hour" event
+
+## 57. Mechs, Rigs & Heavy Machines (1121–1140)
+1121. Pilotable mech suit with HUD and weapons
+1122. Exo-rig granting super strength (carry blocks)
+1123. Crane for moving heavy containers
+1124. Bulldozer that clears terrain in a swath
+1125. Deep-drill rig reaching bedrock resources
+1126. Forklift for pallet and crate logistics
+1127. Mech hangar for repair and rearm
+1128. Damage model with limbs disabled separately
+1129. Two-player mech (driver + gunner)
+1130. Powered exoskeleton letting medics revive faster
+1131. Siege walker for breach defense
+1132. Salvage mech parts from wreckage
+1133. Fuel and coolant management while piloting
+1134. Mech-vs-mech arena battles
+1135. Loader claw to grab and throw entities
+1136. Hovercraft rig over water and lava
+1137. Modular loadout: swap arms and legs
+1138. Overheat mechanic forcing vent breaks
+1139. Deployable turret from a mech backpack
+1140. EMP-vulnerable mechs (ties to robotics)
+
+## 58. Ballistics & Advanced Firearms (1141–1160)
+1141. Bullet drop and travel time on long shots
+1142. Caliber system with ammo per gun
+1143. Attachment rails: scopes, grips, suppressors
+1144. Suppressors reducing alert radius
+1145. Penetration through thin walls and glass
+1146. Ricochet off hard surfaces
+1147. Weapon jamming when dirty or overused
+1148. Learnable recoil patterns per weapon
+1149. Cleaning kit to restore reliability
+1150. Armor-piercing vs hollow-point rounds
+1151. Ballistic shields with a firing slit
+1152. Bipod deploy for stability
+1153. Tracer rounds for night fire
+1154. Reactive armor plates that break off
+1155. Hit zones with headshot multipliers
+1156. Reload types (magazine vs single-shell)
+1157. Gunsmith bench to build custom weapons
+1158. Ammo crafting (casings, powder, primers)
+1159. Weapon durability with field repair
+1160. Non-lethal rounds (rubber, tranquilizer)
+
+## 59. Stealth Gadgets & Infiltration Tools (1161–1180)
+1161. Active-camo cloak for partial invisibility
+1162. Silent boots that remove footstep sound
+1163. Lockpick minigame for doors and chests
+1164. Vent-crawling to bypass corridors
+1165. Smoke bombs breaking line of sight
+1166. Throwable noise-maker as a distraction
+1167. Plantable motion sensor you can monitor
+1168. Camera-loop hacker to fool CCTV
+1169. Grappling hook for silent vertical entry
+1170. Disguise kit copying a faction uniform
+1171. Fake ID cards that fool keycard readers
+1172. Thermal goggles seeing entities through walls
+1173. EMP briefly killing lights and cameras
+1174. Silent takedown from behind
+1175. Bug/listening device for intel
+1176. Trap-disarm multitool
+1177. Holographic decoy of yourself
+1178. Chameleon armor matching wall colors
+1179. Night-vision contacts needing no light
+1180. Ghost mode: no name tag while crouched and still
+
+## 60. Hacking, Networks & Cyberwarfare (1181–1200)
+1181. Terminal hacking minigame (crack the password)
+1182. Network map of connected facility systems
+1183. Hack a node to override doors and lights
+1184. Firewalls that trace and alarm intruders
+1185. Virus item corrupting a target terminal
+1186. Data heist: exfiltrate files before a timeout
+1187. Encrypted logs needing a decryption key
+1188. Remote camera access from a laptop item
+1189. Kill-switch to shut down facility power
+1190. Counter-hack defense minigame for admins
+1191. Botnet controlling multiple turrets
+1192. Signal jammer blocking comms in a radius
+1193. Honeypot terminal that catches hackers
+1194. Clearance escalation by forging credentials
+1195. System-reboot event locking everyone out briefly
+1196. Trojan hidden inside a "gift" item
+1197. Data drives as lootable, sellable intel
+1198. Packet-trace puzzle to find the intruder
+1199. AI core you can hack to flip its allegiance
+1200. Backdoor left behind for later re-entry
+
+## 61. Puzzle Rooms & Logic Challenges (1201–1220)
+1201. Pressure-plate sequence memory puzzle
+1202. Laser-and-mirror redirection room
+1203. Weight-balance scales puzzle
+1204. Color-code wiring to open a vault
+1205. Sliding-block (15-puzzle) door lock
+1206. Simon-says pattern repeat with note blocks
+1207. Hidden-lever hunt in a decorated room
+1208. Riddle terminal answered via sign or chat
+1209. Timed pressure-plate relay for two players
+1210. Gravity-flip puzzle chamber
+1211. Sound-source triangulation puzzle
+1212. Reflection puzzle needing entity placement
+1213. Redstone circuit-completion pieces
+1214. Rotating-room orientation puzzle
+1215. Light-the-torches-in-order challenge
+1216. Invisible bridge revealed by particles
+1217. Cipher wheel decoding a passcode
+1218. Chess/logic-move gate
+1219. Layered escape-room clue chains
+1220. Co-op puzzle needing simultaneous inputs
+
+## 62. Co-op Raids & Squad Objectives (1221–1240)
+1221. Multi-stage raid with assigned roles
+1222. Shared objective HUD with checkpoints
+1223. Downed-teammate revive mechanic
+1224. Squad loadout-selection lobby
+1225. Extraction under a timer with rising threat
+1226. Boss with mechanics needing 3+ players
+1227. Mid-raid ammo and health resupply crates
+1228. Friendly-fire toggle with team colors
+1229. Escort a VIP/NPC to the exit
+1230. Hold-the-line wave defense
+1231. Split objectives forcing coordination
+1232. Loot rolls (need vs greed) after a raid
+1233. Difficulty scaling to squad size
+1234. Raid sign-up board
+1235. Post-raid debrief and rewards screen
+1236. Stealth-raid vs loud-raid branching
+1237. Hazards only teamwork can solve
+1238. Shared power meter for team ultimates
+1239. Betrayal mode with one hidden traitor
+1240. Weekly rotating raid modifiers
+
+## 63. PvP Arenas, Duels & Tournaments (1241–1260)
+1241. 1v1 duel arena with matched gear
+1242. Auto-scheduled bracket tournaments
+1243. Kit PvP with preset loadouts
+1244. Capture-the-flag facility map
+1245. King-of-the-hill control points
+1246. Last-player-standing free-for-all
+1247. Bet on duels with facility credits
+1248. Ranked ELO ladder and leaderboard
+1249. Practice mode with rewind and reset
+1250. Spectator arena with commentary tools
+1251. Round-based bomb defuse (search & destroy)
+1252. Gun-game: weapon upgrades per kill
+1253. Team deathmatch with respawns
+1254. Arena hazards (traps, moving walls)
+1255. Loadout draft-and-ban phase
+1256. Duel of the week feature match
+1257. Handicap matches for skill gaps
+1258. Gauntlet trials against NPCs for a title
+1259. Arena entrance effects and cosmetics
+1260. Anti-camp zones forcing movement
+
+## 64. Companions & Creature AI (1261–1280)
+1261. Recruitable NPC ally with a name and loyalty
+1262. Pet with feeding and happiness needs
+1263. Companion skill tree (heal, tank, scout)
+1264. Mount taming with stamina and temperament
+1265. Guard dog that alerts and attacks intruders
+1266. Companion that carries extra inventory
+1267. Order menu: stay, follow, attack, retreat
+1268. Companion revive when it faints
+1269. Bonding: stats grow with time together
+1270. Multi-companion party with formations
+1271. Trained falcon for aerial scouting
+1272. Companion emotes via chat bubbles
+1273. Harmless anomalous pet (SCP-999-like)
+1274. Companion gear and cosmetics
+1275. AI that intelligently dodges hazards
+1276. Rival tamers whose pets can duel
+1277. Lost-pet rescue events
+1278. Breeding companions for inherited traits
+1279. Memorial if a companion is lost for good
+1280. Hireable mercenary NPCs (credits per day)
+
+## 65. Fishing, Diving & the Deep (1281–1300)
+1281. Fishing minigame with a tension bar
+1282. Species catalog with rarity records
+1283. Deep-sea diving with air tanks
+1284. Submarine vehicle for exploration
+1285. Underwater base building with airlocks
+1286. Sonar revealing seabed features
+1287. Aquatic anomalies lurking in the depths
+1288. Fish farms and aquaculture
+1289. Harpoon gun for big catches
+1290. Pressure damage past a set depth
+1291. Sunken wrecks with loot and hazards
+1292. Bait crafting that shifts the catch table
+1293. Trawling nets for bulk fishing
+1294. Bioluminescent cave-diving zones
+1295. Sea-monster boss hunt
+1296. Diving-suit upgrades (depth, speed)
+1297. Underwater welding for repairs
+1298. Tidal mechanics changing shorelines
+1299. Pearl and coral harvesting economy
+1300. Rescue-diver missions saving drowning NPCs
+
+## 66. Space, Sky & Orbit (1301–1320)
+1301. Build and launch a rocket to a sky dimension
+1302. Zero-gravity space-station interior
+1303. Oxygen management off-world
+1304. Deployable satellite that reveals the map
+1305. Meteor mining in an asteroid field
+1306. Telescope to spot events and coordinates
+1307. Space suit with jetpack maneuvering
+1308. Orbital drop pods for fast deployment
+1309. Solar flares as a hazard event
+1310. Low-gravity jumping on a moon base
+1311. Alien anomaly recovered from space
+1312. Space-debris collision hazards
+1313. Star-map navigation puzzle
+1314. Rover exploration on a lunar surface
+1315. Space elevator from ground to orbit
+1316. Cosmic-radiation shielding needs
+1317. Observatory research minigame
+1318. Reentry heat mechanic on return
+1319. Signal-from-space lore event
+1320. Plant a flag to claim territory
+
+## 67. Caving, Geology & the Underdark (1321–1340)
+1321. Cave-in hazard from unsupported tunnels
+1322. Support beams to prevent collapse
+1323. Methane gas pockets that ignite
+1324. Falling-stalactite traps
+1325. Underground rivers to raft
+1326. Geode cracking for rare crystals
+1327. Speleology map filling as you explore
+1328. Bioluminescent fungi for lighting
+1329. Deep-dark expansions with new threats
+1330. Fossil digs with assembly rewards
+1331. Mineral assay to value ore
+1332. Cavern boss lurking in the dark
+1333. Rope and piton climbing gear
+1334. Flooded-cave diving crossover
+1335. Echo-location item in pure darkness
+1336. Crystal-resonance puzzles
+1337. Lava-tube exploration with heat
+1338. Underground settlement building
+1339. Rare-earth veins that power tech
+1340. Sinkholes opening dynamically
+
+## 68. Cooking, Cuisine & Nutrition (1341–1360)
+1341. Multi-ingredient cooking station
+1342. Balanced-diet buffs (variety matters)
+1343. Spoilage: food rots over time
+1344. Refrigeration to preserve food
+1345. Chef profession that levels recipes
+1346. Restaurant roleplay (orders and tips)
+1347. Coffee and energy drinks for temp buffs
+1348. Cocktail-mixing minigame
+1349. Baking with rise-and-bake timing
+1350. Cultural cuisine sets with bonuses
+1351. Food poisoning from bad prep
+1352. Grill and smoker cooking states
+1353. Buffet event feeding many players
+1354. Seasoning and spice rarity
+1355. Meal-prep giving portable expedition buffs
+1356. Farm-to-table quest chains
+1357. Competitive cook-off minigame
+1358. Anomalous ingredient with a mystery effect
+1359. Water quality affecting cooking
+1360. Recipe discovery and cookbook unlocks
+
+## 69. Smithing, Forging & Gear Crafting (1361–1380)
+1361. Forge minigame with heat and hammer timing
+1362. Quenching choices that shift stats
+1363. Alloy system mixing metals
+1364. Gear quality tiers (poor to masterwork)
+1365. Socketing gems into equipment
+1366. Reforge to reroll modifiers
+1367. Salvage gear into components
+1368. Named legendary crafts with lore
+1369. Blueprint discovery and learning
+1370. Tool and weapon skins from smithing
+1371. Repair using matching materials
+1372. Enchant transfer between items
+1373. Set bonuses for matched gear
+1374. Anvil upgrade tiers
+1375. Master-smith NPC commissions
+1376. Durability-vs-power trade-offs
+1377. Heat treatment for special properties
+1378. Risky anomalous-material gear
+1379. Live crafting queue with timers
+1380. Guild forge as a shared workshop
+
+## 70. Collectibles, Cards & Trading (1381–1400)
+1381. Trading-card set of SCPs and mobs
+1382. Card packs as loot drops
+1383. Card rarity and foil variants
+1384. Card-battle minigame
+1385. Binder to track set completion
+1386. Player-to-player card market
+1387. Achievement badges to collect
+1388. Sticker and stamp collection book
+1389. Figurine display shelves
+1390. Limited seasonal collectibles
+1391. Duplicate-to-craft-rare mechanic
+1392. Museum donations for rewards
+1393. Scavenger-hunt collectible drops
+1394. Card scanner revealing stats
+1395. Tournament played with card decks
+1396. Lore unlocked per card collected
+1397. Collection leaderboard
+1398. Anomalous card with a real effect
+1399. Card crafting from materials
+1400. Trade-in vending for duplicates
+
+## 71. Music, Instruments & Performance (1401–1420)
+1401. Playable instruments mapped to note blocks
+1402. Sheet-music item that auto-plays a tune
+1403. Band mode syncing multiple players
+1404. Jukebox playlists with custom discs
+1405. Concert stage with lighting effects
+1406. Rhythm minigame (hit the beat)
+1407. Radio station broadcasting to the facility
+1408. Sound-reactive light shows
+1409. Karaoke with lyric display
+1410. Instrument crafting and tuning
+1411. Ambient music zones per area
+1412. DJ booth for mixing tracks
+1413. Music buffs that boost morale
+1414. Silence anomaly muting an area
+1415. Marching-band parade events
+1416. Composer tool to write and save songs
+1417. Busking-for-tips minigame
+1418. Boss music that triggers dynamically
+1419. Instrument dueling (rhythm battle)
+1420. Collectible vinyl discs
+
+## 72. Cameras, Media & Broadcasting (1421–1440)
+1421. Handheld camera taking in-game photos
+1422. Photo album and gallery frames
+1423. CCTV network with a control room
+1424. Body-cams recording for guards
+1425. Live broadcast to facility screens
+1426. News-desk roleplay with bulletins
+1427. Photo-mission objectives (snap a target)
+1428. Drone cinematography paths
+1429. Redaction tool censoring footage
+1430. Motion-triggered camera captures
+1431. Press-pass role with access
+1432. Instant-develop photo item
+1433. Security-footage review minigame
+1434. Green-screen and backdrop props
+1435. Documentary spectator tours
+1436. Photo contest with voting
+1437. Hidden-camera intrigue mechanic
+1438. Video-tiling across a screen wall
+1439. Broadcast-hijack event
+1440. Archive of saved footage
+
+## 73. Seasonal, Holiday & Live Events (1441–1460)
+1441. Winter event with snow and gifts
+1442. Halloween breach spooktacular
+1443. Spring bloom and planting festival
+1444. Summer beach and pool zone
+1445. New Year fireworks countdown
+1446. Advent calendar with daily rewards
+1447. Egg hunt across the facility
+1448. Anniversary throwback event
+1449. Harvest-festival minigames
+1450. Costume contest with judging
+1451. Limited-time event shop
+1452. Community goal (collective task)
+1453. Seasonal cosmetics and trophies
+1454. Boss-rush holiday special
+1455. Snowball-fight PvP mode
+1456. Secret-santa gift exchange
+1457. Themed map redecoration
+1458. GM-hosted live story night
+1459. Countdown board to the next event
+1460. Charity/lore event with a twist
+
+## 74. Anomalous Artifacts & Relics (1461–1480)
+1461. Reality-anchor relic stabilizing an area
+1462. Cursed item with a benefit and a cost
+1463. Relic that rewrites nearby blocks
+1464. Amnesia amulet wiping recent memory (UI)
+1465. Teleport idol to a saved shrine
+1466. Artifact that duplicates one item daily
+1467. Mask granting a monstrous form
+1468. Relic radar pinging hidden artifacts
+1469. Containment box for dangerous relics
+1470. Relic attunement binding it to one player
+1471. Relic set completing an ancient power
+1472. Sentient artifact that whispers hints
+1473. Relic decay requiring maintenance
+1474. Trade-forbidden bound relics
+1475. Relic misuse triggering a mini-breach
+1476. Relics excavated from dig sites
+1477. One-use power-word relic
+1478. Mirror relic swapping two players' spots
+1479. Relic-vault heist target
+1480. Relic identification by a scholar NPC
+
+## 75. AI Directors & Emergent Events (1481–1500)
+1481. AI director scaling threats to player count
+1482. Dynamic scheduler springing surprise breaches
+1483. Tension meter that drives pacing
+1484. Auto-triggered faction disputes
+1485. Adaptive enemies learning player routes
+1486. Rumor system seeding player-driven quests
+1487. World-state memory across sessions
+1488. Randomized daily facility "situation"
+1489. Escalation chains (small event to crisis)
+1490. Director mercy easing off after wipes
+1491. Procedural mission generator
+1492. Reactive NPCs commenting on player deeds
+1493. Global threat-level board
+1494. Sandbox event knobs for admins
+1495. Story branches from collective choices
+1496. Ambient life-sim NPC routines
+1497. Emergent economy shifts from supply and demand
+1498. Chaos meter unlocking rare events
+1499. Post-mortem report after each big event
+1500. Self-writing lore log from server activity
 
