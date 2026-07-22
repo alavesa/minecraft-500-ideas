@@ -8,6 +8,10 @@ containment, security, breach events, roleplay and everything an SCP server need
 Ideas 1001–1500: **deeper systems & live-ops** — chemistry, robotics, genetics, custom
 dimensions, weather, mechs, hacking, raids, seasonal events and emergent storytelling.
 
+> **See also: [SCP-SERVER-500.md](SCP-SERVER-500.md)** — 500 ideas tailored to the live
+> SCP prison-RP server's actual plugin family (Facility, Guns, Cars, Labra, Terminal,
+> ScpMobs). Focused on `/dialog` options and mechanics that extend systems already built.
+
 ---
 
 ## 1. Quality of Life (1–20)
