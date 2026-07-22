@@ -1,4 +1,4 @@
-# 1500 Minecraft Datapack / Gameplay Ideas
+# 2000 Minecraft Datapack / Gameplay Ideas
 
 Focus: **game mechanics** (datapack + resource pack feasible). SCP/facility-themed mechanics
 are included as their own sections. Grouped into 75 categories × 20.
@@ -7,10 +7,8 @@ Ideas 1–500: general gameplay mechanics. Ideas 501–1000: **SCP/facility serv
 containment, security, breach events, roleplay and everything an SCP server needs.
 Ideas 1001–1500: **deeper systems & live-ops** — chemistry, robotics, genetics, custom
 dimensions, weather, mechs, hacking, raids, seasonal events and emergent storytelling.
+Ideas 1501–2000: **live SCP server extensions** — `/dialog` options and mechanics tailored to the actual plugin family, extending systems already built.
 
-> **See also: [SCP-SERVER-500.md](SCP-SERVER-500.md)** — 500 ideas tailored to the live
-> SCP prison-RP server's actual plugin family (Facility, Guns, Cars, Labra, Terminal,
-> ScpMobs). Focused on `/dialog` options and mechanics that extend systems already built.
 
 ---
 
@@ -1676,3 +1674,537 @@ and keycards.*
 1499. Post-mortem report after each big event
 1500. Self-writing lore log from server activity
 
+
+---
+
+# Part 4 — Live SCP Server Extensions (1501–2000)
+
+500 ideas tailored to the running SCP prison-RP server's actual plugin family (Facility, Guns, Cars, Labra, Terminal, ScpMobs). Focused on `/dialog` options and mechanics that **extend systems already built**. Cross-refs in parentheses point to existing systems.
+
+## 76. Main Menu & /dialog screens (1501–1540)
+1501. "Rules" screen — scrollable server rules with an "I Agree" gate on first join.
+1502. "Changelog" screen pulling the latest patch notes into the menu.
+1503. "Credits" screen (builders, devs, staff).
+1504. Server MOTD panel with a rotating tip of the day.
+1505. Live player-count + uptime readout on the main menu.
+1506. "Discord" button that copies the invite to chat / shows a QR font glyph.
+1507. Language selector (EN/FI) that reskins menu text.
+1508. "Report a bug" form → writes to a staff log file.
+1509. "Suggest a feature" form → staff review queue.
+1510. Cosmetics wardrobe screen (hats, capes, trails) from the menu.
+1511. Loadout presets: save/load your spawn kit from the menu.
+1512. "Where did I die?" button showing your last death coords + a compass.
+1513. Playtime tracker screen (total hours, session, streak).
+1514. Achievements/badges gallery.
+1515. Team-history timeline ("last 5 teams you played").
+1516. Daily-reward claim button (login streak bonuses).
+1517. "Random spawn" roulette button for chaos mode.
+1518. Settings screen: toggle HUD elements (blink bar, temp, reticle) per player.
+1519. Audio settings: menu-music volume slider glyph.
+1520. Confirmation dialog before joining a PvP-enabled team.
+1521. "Tutorial" walkthrough that opens contextual /dialog steps.
+1522. Spectate-a-friend button (spectator target picker).
+1523. Party/queue screen: join with friends into the same spawn.
+1524. Vote screen: current in-game polls (map events, rule changes).
+1525. Warp menu: op-defined public warps as buttons.
+1526. "Continue where I left off" that restores last inventory tab.
+1527. Clearance-level display + how to raise it.
+1528. Faction-reputation summary (who likes/hates you).
+1529. Bounty board button (open contracts on players).
+1530. "SCP of the day" lore blurb on the menu.
+1531. Server events countdown (next breach drill, next shop restock).
+1532. Death-recap dialog: killer, weapon, distance, body part.
+1533. Karma/behavior score screen (moderation transparency).
+1534. "Mute status / punishment" self-check screen.
+1535. Quick-emote wheel opened from the menu.
+1536. Background theme picker (dark, containment-breach red, night).
+1537. Accessibility screen: high-contrast HUD, larger reticle, colorblind palette.
+1538. "Invite code" generator for referrals.
+1539. Menu shortcut to open the nearest terminal remotely (clearance-gated).
+1540. First-join onboarding path: pick class → tutorial → spawn.
+
+## 77. Terminal (SCiPNET) apps (1541–1580)
+1541. Mail app: send/read messages between players' terminals.
+1542. Announcements app: staff broadcasts archived per player.
+1543. Personnel database: search staff by clearance/role.
+1544. Containment status board: which SCPs are contained/breached.
+1545. Door-control app: remotely lock/unlock doors you have clearance for.
+1546. Lockdown app: trigger zone lockdowns from a terminal.
+1547. Blackout app: toggle facility lights (clearance-gated).
+1548. Requisition app: order gear to a delivery locker.
+1549. Bank/ATM app: check balance, transfer credits.
+1550. Market app: buy/sell items via the terminal.
+1551. Map app: interactive facility map with your position.
+1552. Incident-report writer that files to the records DB.
+1553. Anomaly research app: log experiments on SCPs for XP.
+1554. Camera-record app: save a CCTV still as a "photo" item.
+1555. Elevator-call app.
+1556. Roster app: who's on-shift right now.
+1557. Task/quest board that assigns Foundation jobs.
+1558. Clearance-request app (ask an O5 to promote you).
+1559. Terminal games (minesweeper/snake) as an easter egg.
+1560. Music-player app: pick facility ambience for a room.
+1561. Intercom app: speak to a specific room's speakers.
+1562. Alarm-config app: set custom alert thresholds.
+1563. Power-grid app: reroute power, cause brownouts.
+1564. Ventilation app: flush smoke / toggle airflow (ties to fire ducts).
+1565. Decontamination app: trigger SCP-008 chamber cleansing.
+1566. Reactor app: manage a core with meltdown risk.
+1567. Prisoner-manifest app (D-class roster + assignments).
+1568. Evidence locker app for confiscated items.
+1569. Hacking mini-game to breach higher-clearance terminals.
+1570. Terminal login with player-set PIN + lockout on failures.
+1571. Two-factor via a keycard item.
+1572. Session log: who used this terminal and when.
+1573. File redaction editor for staff (mark lines classified).
+1574. Broadcast-to-all-terminals emergency mode.
+1575. Weather/time control app for admins.
+1576. Supply-drop scheduler app.
+1577. Bounty-posting app tied to the menu bounty board.
+1578. Translation app (in-lore) for anomalous languages.
+1579. Self-destruct sequence app (dramatic, op-gated, reversible).
+1580. Terminal wallpaper/theme customization per player.
+
+## 78. SCP items & anomalies (1581–1630)
+1581. SCP-914 upgrade machine (rough/coarse/1:1/fine/very fine).
+1582. SCP-500 pills that cure all effects.
+1583. SCP-207 cola that speeds you up then overheats you (ties to temperature).
+1584. SCP-427 medallion: slow regen but mutates on overuse.
+1585. SCP-1025 encyclopedia: read a disease, catch its symptoms.
+1586. SCP-963 amulet: respawn as a nearby player (body-swap).
+1587. SCP-668 knife: cursed melee that spreads bad luck.
+1588. SCP-2521 (●●|●●●●●|●●|●) that steals items if you speak its name in chat.
+1589. SCP-055 "anti-memetic" item you keep forgetting you hold.
+1590. SCP-131 "eye pods" pets that follow and warn of danger.
+1591. SCP-999 slime that heals + removes fear/negative effects.
+1592. SCP-035 mask: possess the wearer, huge buffs + slow corruption.
+1593. SCP-096 trigger: looking at its face aggros a shy-guy mob.
+1594. SCP-106 "pocket dimension" trap doors (already partially done — expand).
+1595. SCP-173 statue that moves only when unobserved (blink synergy).
+1596. SCP-049 "cure" that converts corpses into zombie allies.
+1597. SCP-3008 infinite IKEA dimension as a survival zone.
+1598. SCP-682 boss encounter with adaptive resistances.
+1599. SCP-053 little girl: NPC that pacifies or kills based on trust.
+1600. SCP-513 bell that summons a jump-scare stalker.
+1601. SCP-1471 app that spawns a MalO stalker after install.
+1602. SCP-914-refined ammo tiers (upgrade bullets).
+1603. SCP-148 "telekill" alloy that blocks psychic SCP abilities.
+1604. SCP-714 jade ring: immunity to memetic/mind effects (already have — expand tiers).
+1605. SCP-1162 "hole in the wall" gacha item dispenser.
+1606. SCP-294 drink machine: type any drink, get an effect.
+1607. SCP-458 "never-empty" pizza box food source.
+1608. SCP-330 candy dish: take two, get punished.
+1609. SCP-1440 old man NPC that must never stay in one place.
+1610. SCP-2317 "gate guardian" apocalypse timer event.
+1611. SCP-3199 birdlike swarm mob.
+1612. SCP-939 "with many voices" mob that mimics player names in chat.
+1613. SCP-966 invisible sleep-killers seen only through NVG (ties to blue NVG).
+1614. SCP-087 endless staircase dimension.
+1615. SCP-1499 gas mask → alien desert dimension (already have — add the world).
+1616. SCP-2000 "deep well" full-server respawn/reset event.
+1617. SCP-3812 reality-warper admin-only chaos toggle.
+1618. SCP-076 "Able" playable warrior class item.
+1619. SCP-1048 "builder bear" that crafts creepy items.
+1620. SCP-250 rex skeleton mountable mob.
+1621. SCP-1006 "spider proletariat" swarm event.
+1622. SCP-1230 "a hero is born" book that starts a solo quest.
+1623. SCP-2662 cult NPC that spawns worshipper mobs.
+1624. SCP-4335 "weaver" corruption spreading through blocks.
+1625. SCP-179 "Sauelsuesor" that reveals incoming breaches.
+1626. SCP-1730 "facility that must be destroyed" mega-dungeon.
+1627. SCP-5000 "why?" endgame escape sequence.
+1628. SCP-008 zombie plague that spreads bite-to-bite (expand areas).
+1629. SCP-217 clockwork virus turning players into automatons.
+1630. SCP-610 flesh-that-hates spreading skin-block infection.
+
+## 79. Weapons & combat (1631–1680)
+1631. Weapon attachments: suppressor (quieter), scope, laser, grip.
+1632. Attachment bench UI to mod guns.
+1633. Weapon durability + jamming that needs clearing.
+1634. Overheating on sustained auto fire (ties to temperature system).
+1635. Bullet drop / ballistics tuning per caliber.
+1636. Penetration: rounds pass through thin walls, lose damage.
+1637. Ricochet chance off metal (already have — add spark VFX).
+1638. Armor-piercing vs hollow-point ammo types.
+1639. Incendiary rounds that start fires (ties to fire system).
+1640. Tranquilizer rounds that apply Slowness/Blindness, not damage.
+1641. Shotgun spread + slug variants.
+1642. Grenade types: frag, smoke, flashbang, gas, EMP.
+1643. Flashbang blinds + deafens (title + sound).
+1644. Smoke grenades that feed the noxious-smoke system.
+1645. EMP grenades that disable terminals/NVG/cars temporarily.
+1646. Molotovs.
+1647. Claymores / tripwire mines.
+1648. C4 with a remote detonator item.
+1649. Riot shield item that blocks frontal damage.
+1650. Melee: batons, combat knives, stun rods.
+1651. Backstab bonus damage from behind.
+1652. Bleeding stacks (already have bleed — add bandage to stop it).
+1653. Bandages/medkits with a use-cast time and animation.
+1654. Adrenaline shot: temporary damage resist + speed.
+1655. Bullet-time dodge roll on double-tap sneak.
+1656. Weapon weight affecting sprint stamina drain.
+1657. Ammo crafting at a workbench.
+1658. Ammo boxes as world loot.
+1659. Weapon skins / camos via the wardrobe.
+1660. Kill streaks granting temporary perks.
+1661. Headshot multiplier tuning + hitmarker sound.
+1662. Limb damage: leg hits slow, arm hits reduce accuracy.
+1663. Dual-wield pistols.
+1664. Deployable turret (security class).
+1665. Sentry drones that patrol.
+1666. Crossbow / bow anomalous variants.
+1667. Taser that stuns for a few seconds.
+1668. Pepper spray → blindness + cough.
+1669. Weapon inspection animation (cosmetic).
+1670. Last-stand: downed state you can be revived from.
+1671. Revive teammates with a medkit (hold to revive).
+1672. Friendly-fire toggle per faction.
+1673. Weapon-lock zones (safe zones disable guns).
+1674. Recoil patterns per weapon that you learn.
+1675. Ammo counter on the gun model (already partial — animated digits).
+1676. Reload-cancel by switching weapons.
+1677. Quickscope mechanics for the sniper.
+1678. Suppressing fire slows/blinds nearby enemies.
+1679. Executions on downed players (cinematic).
+1680. Weapon jam-clear mini-prompt.
+
+## 80. Vehicles & transport (1681–1710)
+1681. Motorbikes with wheelies.
+1682. Armored vans that seat a squad.
+1683. Forklifts to move crates.
+1684. Boats/subs for aquatic zones.
+1685. Helicopters for extraction events.
+1686. Trains on rails between zones.
+1687. Freight elevators for cars.
+1688. Fuel system: cars need refueling.
+1689. Vehicle damage/health + repair.
+1690. Car horns (already? add custom sounds).
+1691. Headlights that give dynamic light at night.
+1692. Nitro boost on a cooldown.
+1693. Vehicle-mounted weapons (turret seat).
+1694. Towing/pushing other vehicles.
+1695. Roadblocks / spike strips.
+1696. Traffic-gate mechanics (keycard barriers for cars).
+1697. Passenger drive-by shooting refinements.
+1698. Vehicle radio playing facility ambience.
+1699. Parking/impound + vehicle locks.
+1700. Vehicle theft with hotwire mini-game.
+1701. Skid marks decals while drifting (like bullet holes).
+1702. Crash damage to players inside.
+1703. Ejector seat easter egg.
+1704. Convoy escort missions.
+1705. Off-road vs pavement handling (already have surfaces — add mud spray).
+1706. Cargo capacity affecting speed.
+1707. Ambulance with a heal aura for passengers.
+1708. Fire truck that fights the fire system.
+1709. Zipline / grapple for vertical traversal.
+1710. Personal jetpack (limited fuel).
+
+## 81. Fire, hazards & survival systems (1711–1750)
+1711. Thirst meter alongside temperature.
+1712. Cold zones that LOWER body temp (hypothermia) — mirror the heat system.
+1713. Frostbite effects at low temperature.
+1714. Heatstroke effects when body temp too high (blur, damage).
+1715. Fire extinguishers refill at stations (already have mounts — add refill sound cues).
+1716. Water sources put out fire + cool you down.
+1717. Radiation zones (Geiger counter already exists — add sickness stages).
+1718. Oxygen system in sealed/flooded rooms.
+1719. Gas leaks that ignite explosively.
+1720. Electrical hazards (wet + live wires).
+1721. Falling-debris during breaches.
+1722. Collapsing floors over lava/void.
+1723. Toxic spills that spread on the floor.
+1724. Acid pools (SCP-tie) that damage armor.
+1725. Disease/infection with symptoms and cures.
+1726. Bleeding-out timer needing bandages.
+1727. Broken bones from big falls (limp/slow).
+1728. Sanity/fear meter near SCPs.
+1729. Darkness fear: no light source drains sanity.
+1730. Sleep/fatigue mechanic tied to stamina.
+1731. Hunger tied to real food items (lab meals).
+1732. Weather: fog, storms affecting visibility.
+1733. Sandstorms in the 1499 desert dimension.
+1734. Earthquakes during containment breaches.
+1735. Power outages that kill lights + terminals.
+1736. Emergency generators you can start.
+1737. Smoke inhalation stages (already partial — add coughing debuff).
+1738. Burn wounds that need treatment.
+1739. Contamination that spreads on touch.
+1740. Quarantine zones with airlocks.
+1741. Decontamination showers.
+1742. Hazmat suits reduce all environmental damage (already have hazmat — wire it).
+1743. Temperature-based item behavior (guns jam when frozen).
+1744. Ice makes cars/players slide (already for cars — add players).
+1745. Slippery blood pools after fights.
+1746. Structural fires spread realistically slow (already tuned — add scorch marks).
+1747. Firefighting XP/role.
+1748. Environmental storytelling props (bloodstains, scattered files).
+1749. Dynamic day/night affecting SCP behavior.
+1750. Seasonal events (containment "holidays").
+
+## 82. Containment & security mechanics (1751–1790)
+1751. Keycard clearance tiers (L0–L5) as items.
+1752. Card readers on doors that log access.
+1753. Biometric scanners tied to player UUID.
+1754. Blast doors that take time to open/close.
+1755. Airlock sequencing (both doors can't open at once).
+1756. Security cameras with a patrol/rotation (expand CCTV).
+1757. Motion sensors that trip alarms.
+1758. Laser tripwires in high-security wings.
+1759. Turret defenses on lockdown.
+1760. Containment cells with SCP-specific rules.
+1761. Breach detection that auto-locks zones.
+1762. Alarm levels (green/amber/red) changing music + lighting.
+1763. Guard patrol routes (NPC or player objectives).
+1764. Riot suppression tools (tear gas, shields).
+1765. Prisoner cuffs + escort mechanics (handcuffs already exist — expand).
+1766. Cell assignment + roll-call for D-class.
+1767. Contraband detection at checkpoints.
+1768. Body-search mechanic.
+1769. Detention timers / sentences.
+1770. Escape-attempt detection.
+1771. Panic buttons in every room.
+1772. Reinforcement call system for guards.
+1773. Weapon lockers requiring clearance.
+1774. Armory with a sign-out log.
+1775. Security drones that scan faces (096 synergy).
+1776. Facility-wide PA countdown to lockdown.
+1777. Emergency evac routes lit on the floor.
+1778. Safe rooms that seal on command.
+1779. Manual door override with a crowbar (breach tool).
+1780. Welding doors shut (temporary barricade).
+1781. Barricades built from furniture.
+1782. Vent-crawling as an alternate route (fire-duct synergy).
+1783. Master keys that expire.
+1784. Zone permissions per team (LCZ/HCZ/EZ).
+1785. Intrusion heatmap for staff.
+1786. Tamper alarms on cameras.
+1787. Guard-tower sniper nests.
+1788. Checkpoint toll: pay/clear to pass.
+1789. Lockdown drills as scheduled events.
+1790. "Code word" chat commands that trigger security responses.
+
+## 83. Roleplay & social systems (1791–1830)
+1791. /me and /do roleplay emotes.
+1792. Proximity voice-text (nearby chat radius).
+1793. Radio channels per faction (item-based).
+1794. Whisper/shout ranges.
+1795. Nameplate roles + clearance colors.
+1796. Nickname/alias system (already have gun rename — do for players).
+1797. ID badges as wearable items.
+1798. Faction ranks with promotions.
+1799. Reputation/standing between factions.
+1800. Contracts/agreements signed on terminals.
+1801. Marriage/partnership RP registry.
+1802. Player-owned rooms/offices with locks.
+1803. Furniture placement (chairs, desks, displays).
+1804. Sittable chairs.
+1805. Bulletin boards players can post to.
+1806. Newspaper generated from server events.
+1807. Court/tribunal system for D-class.
+1808. Interrogation rooms with recording.
+1809. Bribery/corruption mechanics.
+1810. Trust levels affecting NPC dialogue.
+1811. Rumor system (info spreads room to room).
+1812. Disguises (wear another faction's uniform).
+1813. Undercover detection (blow your cover).
+1814. Gestures/animations (salute, surrender).
+1815. Handcuff-and-escort RP flows.
+1816. Blindfold item (limits vision).
+1817. Gag item (limits chat).
+1818. Photography item to capture RP moments.
+1819. Journaling: personal diary saved to your files.
+1820. Player shops/stalls.
+1821. Auction house.
+1822. Gambling den (cards, slots).
+1823. Bar/canteen with orderable drinks (294 synergy).
+1824. Cigarettes/coffee for small buffs + RP.
+1825. Music instruments (note-block busking).
+1826. Graffiti/spray tags (decal system).
+1827. Pet system (131 eye-pods, dogs).
+1828. Mail packages between players.
+1829. Party invites + shared objectives.
+1830. Faction wars with territory control.
+
+## 84. Economy & jobs (1831–1865)
+1831. Credits currency with a bank.
+1832. Paychecks per shift/role.
+1833. ATMs (terminal app) + physical cash item.
+1834. Player shops with signs.
+1835. Job board: pick a Foundation role for pay.
+1836. Researcher job: run SCP experiments for credits.
+1837. Janitor job: clean spills/fires.
+1838. Medic job: heal players for pay.
+1839. Engineer job: repair doors/power.
+1840. Guard job: contain breaches for bounties.
+1841. D-class job: survive tests for a reduced sentence.
+1842. Miner/scavenger job in outer zones.
+1843. Delivery/courier job between terminals.
+1844. Cook job (canteen).
+1845. Mechanic job (vehicle repair).
+1846. Bounty hunter job.
+1847. Black-market vendor NPCs.
+1848. Requisition budgets per faction.
+1849. Taxes/upkeep on owned property.
+1850. Loot rarity tiers with drop tables.
+1851. Crate keys + lootboxes (cosmetic only).
+1852. Daily contracts with escalating rewards.
+1853. Reputation-gated vendors.
+1854. Crafting economy (materials → gear).
+1855. Salvage guns/items for parts.
+1856. Repair kits as consumables.
+1857. Insurance on gear (recover on death for a fee).
+1858. Wage garnishment for rule breaks (fines).
+1859. Faction treasury + upgrades funded by members.
+1860. Stock-market mini-game on terminals.
+1861. Trading caravans (mobile shops).
+1862. Barter system (item-for-item).
+1863. Rent vehicles/rooms.
+1864. Tip jar for medics/entertainers.
+1865. Economy dashboard for admins.
+
+## 85. Progression, stats & classes (1866–1900)
+1866. XP + levels per role.
+1867. Skill trees (combat, medical, engineering, science).
+1868. Perks unlocked by playtime.
+1869. Prestige after max level.
+1870. Class selection with unique kits (already teams — deepen).
+1871. Talent respec at a terminal.
+1872. Weapon mastery per gun (like reticle familiarity).
+1873. Stamina/health upgrades over time.
+1874. Clearance progression via research XP.
+1875. Reputation unlocks (new vendors, warps).
+1876. Titles earned from achievements.
+1877. Leaderboards (kills, containment, research).
+1878. Seasonal ranked ladders.
+1879. Stat page expansion: accuracy, headshot %, favorite gun.
+1880. Weekly challenges.
+1881. Milestone rewards (100 kills → skin).
+1882. Daily login streak perks.
+1883. Role-specific abilities on cooldown (medic aura, guard shield).
+1884. Ultimate abilities charged by play.
+1885. Class-swap cooldown to prevent spam.
+1886. Cross-class synergies (squad buffs).
+1887. Mentor system (veterans buff rookies).
+1888. Newbie protection window.
+1889. Death penalties (XP loss / gear drop toggle).
+1890. Hardcore mode with permadeath characters.
+1891. Character slots (multiple personas).
+1892. Backstory picker affecting starting perks.
+1893. Reputation decay over inactivity.
+1894. Faction loyalty rewards.
+1895. Kill-cam / death-recap with replay.
+1896. Assist tracking + shared XP.
+1897. Objective-based scoring (not just kills).
+1898. Endgame "escape the facility" campaign.
+1899. New Game+ for completed campaigns.
+1900. Stat export to a web profile.
+
+## 86. HUD / UX / cosmetics (1901–1935)
+1901. Compass strip HUD with waypoints.
+1902. Minimap overlay (font-glyph based).
+1903. Objective tracker on the HUD.
+1904. Damage-direction indicators.
+1905. Hitmarkers + kill confirmation.
+1906. Low-health vignette (red edges).
+1907. Heartbeat sound at low HP.
+1908. Compass to your body/loot after death.
+1909. Toggleable crosshair styles (reticle already — add presets).
+1910. Ammo/health repositioning options.
+1911. Temperature HUD refinement (thermometer bar).
+1912. Stamina bar polish + winded flash.
+1913. Blink bar customization (color/position).
+1914. Gas-mask overlay variants per tier (already 3 — add cracked-lens damage).
+1915. NVG scanline + noise overlay.
+1916. Night-vision battery HUD.
+1917. Interaction prompts ("Hold F to...").
+1918. Subtitle system for sound cues (footsteps, gunfire direction).
+1919. Killfeed on the HUD.
+1920. Team roster sidebar.
+1921. Player nameplate health bars.
+1922. Clearance badge on nameplates.
+1923. Contextual radial menus.
+1924. Emote wheel.
+1925. Cosmetic capes/trails.
+1926. Custom death messages per weapon.
+1927. Screen-shake on explosions.
+1928. Chromatic-aberration effect near reality-benders.
+1929. Vignette + grain for horror zones.
+1930. Boss health bars (682 etc.).
+1931. Event banners (breach start/end).
+1932. Toast notifications for rewards.
+1933. Loadout preview mannequin.
+1934. Photo mode (free camera + filters).
+1935. UI sound theme (SCiPNET beeps).
+
+## 87. Events, breaches & scenarios (1936–1970)
+1936. Scheduled containment-breach event (SCPs escape).
+1937. Random breach triggered by low power.
+1938. Alpha-warhead evacuation countdown.
+1939. GOI raids (Chaos Insurgency attack).
+1940. MTF deployment reinforcement event.
+1941. Supply-drop scramble.
+1942. Boss-SCP invasion (682/096).
+1943. Hide-and-seek (173 tag mode).
+1944. Zombie outbreak (008/049) horde survival.
+1945. Blackout event (facility goes dark).
+1946. Reactor meltdown defense.
+1947. Escort-the-VIP mission.
+1948. Extraction: reach the chopper.
+1949. King-of-the-hill zone control.
+1950. Capture-the-flag with SCP objects.
+1951. Payload push (move a car/cart).
+1952. Last-man-standing arena.
+1953. Gun-game progression mode.
+1954. Prop-hunt in facility rooms.
+1955. Murder-mystery (one killer, detectives).
+1956. Death-run parkour with traps.
+1957. Trivia event on terminals.
+1958. Scavenger hunt for anomalous items.
+1959. Timed maze (087/3008).
+1960. Wave-defense against mobs.
+1961. Faction-war weekend.
+1962. Server-wide vote to spawn an SCP.
+1963. Anomaly-of-the-week featured mechanic.
+1964. Double-XP weekends.
+1965. Holiday-themed breaches.
+1966. Live GM-run events with narration.
+1967. Consequences that persist (a breach damages the map).
+1968. Rebuild/repair phase after events.
+1969. Dynamic event director scaling to player count.
+1970. Post-event rewards + recap screen.
+
+## 88. Admin / moderation / world tools (1971–2000)
+1971. Staff dashboard terminal app.
+1972. Freeze/teleport/heal quick tools.
+1973. Vanish + spectate mode.
+1974. Player-report queue with claim/resolve.
+1975. Chat-filter + auto-mod logs.
+1976. Punishment history per player.
+1977. Rollback tool for grief (block logging).
+1978. Entity cleanup for orphaned displays (already partial — expand).
+1979. Live map of all players.
+1980. SCP/mob spawner GUI (expand /lab menu).
+1981. Event-trigger console.
+1982. Economy adjustment tools.
+1983. Give/remove clearance quickly.
+1984. Broadcast composer with formatting.
+1985. Scheduled announcements/cron.
+1986. Server-health readout (TPS, entity counts).
+1987. Lag-source finder (per-chunk entity heatmap).
+1988. Backup/restore world regions.
+1989. Whitelist/application review app.
+1990. Warn-then-kick escalation macros.
+1991. Shadowban / limbo dimension.
+1992. Test-realm toggle for staff.
+1993. Config hot-reload for all plugins from one place.
+1994. Feature flags per plugin.
+1995. Metrics: most-used items, popular zones.
+1996. Anti-cheat hooks (reach, speed, aimbot flags).
+1997. Duplicate-item detection.
+1998. Automated restart with warning countdown (menu-integrated).
+1999. Staff activity log + shift tracker.
+2000. In-game feedback → auto-sorted suggestion board (closes the loop with #9).
+
+---
